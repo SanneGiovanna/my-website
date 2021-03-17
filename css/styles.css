@@ -1,0 +1,15 @@
+@charset "utf-8";
+.goodboy img {
+    border: thick solid #845F49;
+}
+
+.jumbotron {
+    background-color: #F0A77B;	
+}
+
+.btn {
+    margin-left: 41%;
+	background-color: darkgreen;
+	border-color: darkgreen;
+	color: black
+}
